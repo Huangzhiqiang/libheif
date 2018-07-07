@@ -10,11 +10,10 @@ environment:
     - GENERATOR: "Visual Studio 14 2015"
 
 platform:
-  - x86
   - x64
 
 configuration:
-  - Debug
+  - Release
 
 build:
   verbosity: normal
